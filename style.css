@@ -9,6 +9,10 @@ h1 {
 	padding-left: 20px;
 }
 
+.main {
+	margin-top: 80px;
+}
+
 form input {
 	background: #f0f0f0;
 
@@ -18,4 +22,16 @@ form input {
 	font-size: 36px;
 	padding: 20px;
 	width: 100%;
+}
+
+button.btn {
+	background: transparent;
+	border: none;
+
+	color: #00f28f;
+	cursor: pointer;
+
+	font-size: 36px;
+
+	padding: 20px 24px;
 }
