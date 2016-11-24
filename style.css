@@ -8,3 +8,14 @@ h1 {
 	font-weight: 400;
 	padding-left: 20px;
 }
+
+form input {
+	background: #f0f0f0;
+
+	border: none;
+	border-left: 2px solid #fff;
+
+	font-size: 36px;
+	padding: 20px;
+	width: 100%;
+}
