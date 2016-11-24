@@ -1,3 +1,7 @@
+html, body {
+	font-family: 'Patua One', cursive;
+}
+
 h1 {
 	border-left: 2px solid #00f28f;
 	font-size: 48px;
